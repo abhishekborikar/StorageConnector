@@ -1,0 +1,4 @@
+/media/abhishek/Study/Projects/dot_net/StorageConnector/ConnectionTester/obj/Debug/netcoreapp3.1/ConnectionTester.csprojAssemblyReference.cache
+/media/abhishek/Study/Projects/dot_net/StorageConnector/ConnectionTester/obj/Debug/netcoreapp3.1/ConnectionTester.AssemblyInfoInputs.cache
+/media/abhishek/Study/Projects/dot_net/StorageConnector/ConnectionTester/obj/Debug/netcoreapp3.1/ConnectionTester.AssemblyInfo.cs
+/media/abhishek/Study/Projects/dot_net/StorageConnector/ConnectionTester/obj/Debug/netcoreapp3.1/ConnectionTester.csproj.CoreCompileInputs.cache

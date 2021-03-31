@@ -1,0 +1,9 @@
+/media/abhishek/Study/Projects/dot_net/StorageConnector/SQLConnector/bin/Debug/netstandard2.0/SQLConnector.deps.json
+/media/abhishek/Study/Projects/dot_net/StorageConnector/SQLConnector/bin/Debug/netstandard2.0/SQLConnector.dll
+/media/abhishek/Study/Projects/dot_net/StorageConnector/SQLConnector/bin/Debug/netstandard2.0/SQLConnector.pdb
+/media/abhishek/Study/Projects/dot_net/StorageConnector/SQLConnector/obj/Debug/netstandard2.0/SQLConnector.csprojAssemblyReference.cache
+/media/abhishek/Study/Projects/dot_net/StorageConnector/SQLConnector/obj/Debug/netstandard2.0/SQLConnector.AssemblyInfoInputs.cache
+/media/abhishek/Study/Projects/dot_net/StorageConnector/SQLConnector/obj/Debug/netstandard2.0/SQLConnector.AssemblyInfo.cs
+/media/abhishek/Study/Projects/dot_net/StorageConnector/SQLConnector/obj/Debug/netstandard2.0/SQLConnector.csproj.CoreCompileInputs.cache
+/media/abhishek/Study/Projects/dot_net/StorageConnector/SQLConnector/obj/Debug/netstandard2.0/SQLConnector.dll
+/media/abhishek/Study/Projects/dot_net/StorageConnector/SQLConnector/obj/Debug/netstandard2.0/SQLConnector.pdb
